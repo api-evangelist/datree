@@ -1,0 +1,57 @@
+{
+    "name": "Datree",
+    "description": "<p>Datree scans, catalogs and recommends code components in the context of your stack. Locate and sync your dev stack across your entire team with a single click, and get valuable insights that allow you to choose the right code components for your projects. Gain instant access to your company&rsquo;s entire development stack through GitHub or any other version control repository. We map your code components, development tools and internal know-how within your organization, giving you visibility into your tech stack. Connect directly into your Terminal, IDE, or as a Slack bot (coming soon) ensuring developers never have to leave the dev environment to benefit from our recommendation engine.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28708-www-datree-io.jpg",
+    "tags": [
+        "code",
+        "data",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datree\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Datree",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28708-www-datree-io.jpg",
+            "humanURL": "https:\/\/www.datree.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datree-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/datree-io"
+        },
+        {
+            "type": "Email",
+            "url": "info@datree.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/datreeio"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/datreeio\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/datreeio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.datree.io"
+        }
+    ]
+}
